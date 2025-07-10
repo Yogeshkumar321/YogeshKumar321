@@ -46,7 +46,9 @@
 ![MATLAB](https://img.shields.io/badge/-MATLAB-orange?style=for-the-badge&logo=mathworks)
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yogeshkumar321&show_icons=true&locale=en&layout=compact" alt="yogeshkumar321" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogeshkumar321&layout=compact" alt="Top Languages" />
+</p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yogeshkumar321&show_icons=true&locale=en" alt="yogeshkumar321" /></p>
 
